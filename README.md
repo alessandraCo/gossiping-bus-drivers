@@ -1,8 +1,9 @@
 # gossiping-bus-drivers
-calculate after how many stops all the bus drivers know all the gossips
+- calculate after how many stops all the bus drivers know all the gossips
 ---
 ## Demo
-![]()
+![demo img 1](https://github.com/alessandraCo/gossiping-bus-drivers/blob/main/Gossiping.png)
+![demo img 2](https://github.com/alessandraCo/gossiping-bus-drivers/blob/main/NeverGossiping.png)
 ---
 ## Description
 - this app calculates after how many stops all the bus drivers know all the gossips
